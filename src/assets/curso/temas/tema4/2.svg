@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="682.303" viewBox="0 0 840 682.303">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_34364" data-name="Rectángulo 34364" width="840" height="682.303" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1013328" data-name="Grupo 1013328" transform="translate(-390 -1796)">
+    <g id="Group_34_3_" data-name="Group 34 (3)" transform="translate(390 1796)">
+      <g id="Grupo_81543" data-name="Grupo 81543" clip-path="url(#clip-path)">
+        <path id="Trazado_116639" data-name="Trazado 116639" d="M774.948,125.454H676.775a44.484,44.484,0,0,0-43.852,51.928L693.237,532.2a44.5,44.5,0,0,0,43.852,37.026h75.737A44.5,44.5,0,0,0,856.679,532.2l60.316-354.814a44.476,44.476,0,0,0-43.852-51.928H774.948Z" transform="translate(-95.851 -19.018)" fill="#eee"/>
+        <path id="Trazado_116640" data-name="Trazado 116640" d="M781.422,212.872A106.436,106.436,0,1,0,674.986,106.436,106.436,106.436,0,0,0,781.422,212.872Z" transform="translate(-102.324)" fill="#ffd947"/>
+        <g id="Grupo_81540" data-name="Grupo 81540" transform="translate(599.71 27.089)">
+          <path id="Trazado_116641" data-name="Trazado 116641" d="M786.732,190.688a79.38,79.38,0,1,0-79.864-78.893A79.381,79.381,0,0,0,786.732,190.688Z" transform="translate(-706.867 -31.93)" fill="#fff"/>
+        </g>
+        <path id="Trazado_116642" data-name="Trazado 116642" d="M855.345,114.639a66.892,66.892,0,1,0-68.038,65.726A66.892,66.892,0,0,0,855.345,114.639Z" transform="translate(-109.386 -7.063)" fill="#fff"/>
+        <path id="Trazado_116643" data-name="Trazado 116643" d="M142.672,125.454H44.5A44.465,44.465,0,0,0,.646,177.381L60.94,532.2a44.5,44.5,0,0,0,43.852,37.026H180.53A44.5,44.5,0,0,0,224.383,532.2L284.7,177.381a44.476,44.476,0,0,0-43.852-51.927Z" transform="translate(-0.001 -19.018)" fill="#eee"/>
+        <path id="Trazado_116644" data-name="Trazado 116644" d="M149.146,212.872A106.436,106.436,0,1,0,42.709,106.436,106.436,106.436,0,0,0,149.146,212.872Z" transform="translate(-6.475 0)" fill="#b3009d"/>
+        <g id="Grupo_81541" data-name="Grupo 81541" transform="translate(63.292 27.056)">
+          <path id="Trazado_116645" data-name="Trazado 116645" d="M153.98,190.651A79.38,79.38,0,1,0,74.6,111.27,79.379,79.379,0,0,0,153.98,190.651Z" transform="translate(-74.601 -31.891)" fill="#fff"/>
+        </g>
+        <path id="Trazado_116646" data-name="Trazado 116646" d="M156.212,180.394A66.892,66.892,0,1,0,89.319,113.5,66.892,66.892,0,0,0,156.212,180.394Z" transform="translate(-13.54 -7.066)" fill="#fff"/>
+        <path id="Trazado_116647" data-name="Trazado 116647" d="M457.755,577H359.582a44.484,44.484,0,0,1-43.852-51.928l60.315-354.814A44.5,44.5,0,0,1,419.9,133.231h75.737a44.5,44.5,0,0,1,43.852,37.026L599.8,525.071A44.476,44.476,0,0,1,555.949,577H457.755Z" transform="translate(-47.766 -20.197)" fill="#eee"/>
+        <path id="Trazado_116648" data-name="Trazado 116648" d="M539.5,712.535a106.436,106.436,0,1,0-150.523,0A106.437,106.437,0,0,0,539.5,712.535Z" transform="translate(-54.241 -80.472)" fill="#00cca7"/>
+        <g id="Grupo_81542" data-name="Grupo 81542" transform="translate(330.61 477.422)">
+          <path id="Trazado_116649" data-name="Trazado 116649" d="M469.063,721.489a79.38,79.38,0,1,0-79.379-79.379A79.379,79.379,0,0,0,469.063,721.489Z" transform="translate(-389.684 -562.729)" fill="#fff"/>
+        </g>
+        <path id="Trazado_116650" data-name="Trazado 116650" d="M471.295,577.448a66.892,66.892,0,1,0,66.892,66.893A66.973,66.973,0,0,0,471.295,577.448Z" transform="translate(-61.305 -87.538)" fill="#fff"/>
+      </g>
+      <path id="Trazado_116651" data-name="Trazado 116651" d="M171.063,100.067v53.909H164.25v-45.4l-13.735,5.008v-6.149l19.479-7.365Z" transform="translate(-22.817 -15.17)" fill="#12263f"/>
+      <path id="Trazado_116652" data-name="Trazado 116652" d="M498.3,671.3v5.6H463.2V672l17.565-19.553a70.252,70.252,0,0,0,5.007-6.112,19.055,19.055,0,0,0,2.5-4.53,12,12,0,0,0,.736-4.124,10.263,10.263,0,0,0-1.1-4.787,8.271,8.271,0,0,0-3.167-3.461,9.528,9.528,0,0,0-5.082-1.289,11.657,11.657,0,0,0-5.965,1.4,8.6,8.6,0,0,0-3.534,3.83,13,13,0,0,0-1.178,5.671h-6.813a17.429,17.429,0,0,1,1.989-8.286,14.653,14.653,0,0,1,5.891-5.965,19,19,0,0,1,9.611-2.247,19.251,19.251,0,0,1,8.69,1.8,12.749,12.749,0,0,1,5.524,5.008,14.157,14.157,0,0,1,1.951,7.512,15.063,15.063,0,0,1-.81,4.787,24.292,24.292,0,0,1-2.172,4.788,37.273,37.273,0,0,1-3.2,4.713q-1.8,2.32-3.867,4.566L471.415,671.3Z" transform="translate(-70.063 -94.375)" fill="#12263f"/>
+      <path id="Trazado_116653" data-name="Trazado 116653" d="M790.116,115.739h4.861a12.97,12.97,0,0,0,5.891-1.178,8.1,8.1,0,0,0,3.5-3.277,9.459,9.459,0,0,0,1.178-4.713,11.718,11.718,0,0,0-1.032-5.192,6.9,6.9,0,0,0-3.093-3.167,11.32,11.32,0,0,0-5.229-1.068,10.912,10.912,0,0,0-5.081,1.142,8.352,8.352,0,0,0-3.425,3.167,9.4,9.4,0,0,0-1.215,4.861h-6.813a13.914,13.914,0,0,1,2.063-7.438,14.83,14.83,0,0,1,5.781-5.34,18.3,18.3,0,0,1,8.69-1.988,19.633,19.633,0,0,1,8.506,1.731,12.663,12.663,0,0,1,5.671,5.082,15.906,15.906,0,0,1,2.025,8.359,11.435,11.435,0,0,1-.957,4.346,12.846,12.846,0,0,1-2.909,4.272,15.013,15.013,0,0,1-5.081,3.277,20.216,20.216,0,0,1-7.513,1.252h-5.818Zm0,5.6v-4.087h5.818a25.147,25.147,0,0,1,8.47,1.215,13.386,13.386,0,0,1,5.266,3.24,11.357,11.357,0,0,1,2.724,4.456,14.845,14.845,0,0,1,.81,4.787,16.3,16.3,0,0,1-1.289,6.665,13.582,13.582,0,0,1-3.572,4.934,15.275,15.275,0,0,1-5.376,3.057,21.192,21.192,0,0,1-6.738,1.031,21.417,21.417,0,0,1-6.591-.994,17.078,17.078,0,0,1-5.414-2.872,13.446,13.446,0,0,1-3.682-4.677,14.7,14.7,0,0,1-1.325-6.37h6.812a9.6,9.6,0,0,0,1.215,4.9,8.612,8.612,0,0,0,3.535,3.277,12.21,12.21,0,0,0,5.45,1.142,12.425,12.425,0,0,0,5.375-1.068,7.75,7.75,0,0,0,3.5-3.314,11.167,11.167,0,0,0,1.251-5.56,9.833,9.833,0,0,0-1.4-5.487,8.208,8.208,0,0,0-3.977-3.2,15.429,15.429,0,0,0-6-1.068Z" transform="translate(-118.125 -13.878)" fill="#12263f"/>
+    </g>
+    <text id="Plan_de_muestreo_simple_Considera_una_muestra_de_cada_lote_o_grupo." data-name="Plan de muestreo simple
+
+
+Considera una muestra de cada lote o grupo." transform="translate(461 2069)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-63.102" y="15">Plan de muestreo </tspan><tspan x="-24.109" y="35">simple</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="55"></tspan><tspan x="0" y="75"></tspan><tspan x="-51.059" y="95">Considera una </tspan><tspan x="-59.414" y="115">muestra de cada </tspan><tspan x="-44.641" y="135">lote o grupo.</tspan></tspan></text>
+    <text id="Plan_de_muestreo_múltiple_Tiene_en_cuenta_más_de_dos_muestras_por_lote." data-name="Plan de muestreo múltiple
+
+
+Tiene en cuenta más de dos muestras por lote." transform="translate(1000 2069)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-63.102" y="15">Plan de muestreo </tspan><tspan x="-29.297" y="35">múltiple</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="55"></tspan><tspan x="0" y="75"></tspan><tspan x="-56.434" y="95">Tiene en cuenta </tspan><tspan x="-41.398" y="115">más de dos </tspan><tspan x="-64.605" y="135">muestras por lote.</tspan></tspan></text>
+    <text id="Plan_de_muestreo_doble_Considera_dos_muestras_por_cada_lote" data-name="Plan de muestreo doble
+
+
+Considera dos muestras por cada lote" transform="translate(728 2022)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-63.102" y="15">Plan de muestreo </tspan><tspan x="-19.98" y="35">doble</tspan><tspan x="0" y="55"></tspan><tspan x="0" y="75"></tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="-51.082" y="95">Considera dos </tspan><tspan x="-66.547" y="115">muestras por cada </tspan><tspan x="-13.355" y="135">lote</tspan></tspan></text>
+  </g>
+</svg>

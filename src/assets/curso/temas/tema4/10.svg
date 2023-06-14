@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="692" viewBox="0 0 820 692">
+  <g id="Grupo_1013339" data-name="Grupo 1013339" transform="translate(-12068 9288)">
+    <g id="Group_31_3_" data-name="Group 31 (3)" transform="translate(12068 -9288)">
+      <rect id="Rectángulo_34365" data-name="Rectángulo 34365" width="165" height="84" rx="11" transform="translate(7 231)" fill="#00cca7"/>
+      <rect id="Rectángulo_34366" data-name="Rectángulo 34366" width="221" height="83" rx="11" transform="translate(7 605)" fill="#3c0061"/>
+      <rect id="Rectángulo_34367" data-name="Rectángulo 34367" width="222" height="83" rx="11" transform="translate(296 605)" fill="#3c0061"/>
+      <rect id="Rectángulo_34368" data-name="Rectángulo 34368" width="248" height="83" rx="11" transform="translate(572 605)" fill="#3c0061"/>
+      <rect id="Rectángulo_34369" data-name="Rectángulo 34369" width="165" height="84" rx="11" transform="translate(219 231)" fill="#00cca7"/>
+      <rect id="Rectángulo_34370" data-name="Rectángulo 34370" width="181" height="84" rx="11" transform="translate(425 231)" fill="#00cca7"/>
+      <rect id="Rectángulo_34371" data-name="Rectángulo 34371" width="165" height="84" rx="11" transform="translate(643 231)" fill="#00cca7"/>
+      <path id="Trazado_116654" data-name="Trazado 116654" d="M92.5,227.275V208.5H728.812v18.775" transform="translate(1.374 3.097)" fill="none" stroke="#707070" stroke-width="2"/>
+      <path id="Trazado_116655" data-name="Trazado 116655" d="M92.5,595.775V577H728.812v18.775" transform="translate(1.374 8.569)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Línea_222" data-name="Línea 222" y2="19" transform="translate(302 211)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Línea_223" data-name="Línea 223" y2="19" transform="translate(524 211)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Línea_224" data-name="Línea 224" y2="19" transform="translate(412 192)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Línea_225" data-name="Línea 225" y2="20" transform="translate(412 565)" fill="none" stroke="#707070" stroke-width="2"/>
+      <line id="Línea_226" data-name="Línea 226" y2="19" transform="translate(412 587)" fill="none" stroke="#707070" stroke-width="2"/>
+      <rect id="Rectángulo_34372" data-name="Rectángulo 34372" width="818" height="192" rx="28" fill="rgba(0,204,167,0.43)"/>
+      <g id="Group_33_1_" data-name="Group 33 (1)" transform="translate(0 373)">
+        <path id="Trazado_116657" data-name="Trazado 116657" d="M71.859,213.232,56,185H87.719Z" transform="translate(0.973 3.213)" fill="#d0c2d9"/>
+        <rect id="Rectángulo_34375" data-name="Rectángulo 34375" width="820" height="192" rx="28" fill="#d0c2d9"/>
+      </g>
+    </g>
+    <text id="Muestreo_aleatorio_simple:_en_este_tipo_de_técnica_se_puede_calcular_la_posibilidad_de_extracción_de_las_muestras_a_utilizar._Dentro_de_este_tipo_de_muestreo_se_puede_reconocer:_-_Muestreo_sin_reposición_de_los_elementos._-_Muestreo_con_reposición_de_lo" data-name="Muestreo aleatorio simple:  en este tipo de técnica, se puede calcular la posibilidad de extracción de las muestras a utilizar.
+
+Dentro de este tipo de muestreo se puede reconocer:
+- Muestreo sin reposición de los elementos.
+- Muestreo con reposición de lo" transform="translate(12103 -9262)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Muestreo aleatorio simple:</tspan><tspan y="15" xml:space="preserve" font-family="Roboto-Regular, Roboto" font-weight="400">  en este tipo de técnica, se puede calcular la posibilidad de extracción de las </tspan><tspan x="0" y="35" font-family="Roboto-Regular, Roboto" font-weight="400">muestras a utilizar.</tspan><tspan font-family="Roboto-Regular, Roboto" font-weight="400"><tspan x="0" y="55"></tspan><tspan x="0" y="75">Dentro de este tipo de muestreo se puede reconocer:</tspan><tspan x="0" y="95">- Muestreo sin reposición de los elementos.</tspan><tspan x="0" y="115">- Muestreo con reposición de los elementos.</tspan><tspan x="0" y="135">- Muestreo con reposición múltiple.</tspan><tspan x="0" y="155"></tspan></tspan></text>
+    <text id="Técnica_que_divide_la_población_en_varios_estratos_definidos_por_algún_tipo_de_variable._Se_calcula_el_peso_de_cada_grupo_o_estrato_luego_se_multiplica_el_peso_del_grupo_por_el_tamaño_de_la_muestra_para_establecer_la_cuota_del_estrato_y_finalmente_se_sele" data-name="Técnica que divide la población en varios estratos definidos por algún tipo de variable. Se calcula el peso de cada grupo o estrato, luego se multiplica el peso del grupo por el tamaño de la muestra para establecer la cuota del estrato y finalmente se sele" transform="translate(12103 -8853)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Técnica que divide la población en varios estratos definidos por algún tipo de variable. Se calcula el peso </tspan><tspan x="0" y="35">de cada grupo o estrato, luego se multiplica el peso del grupo por el tamaño de la muestra para </tspan><tspan x="0" y="55">establecer la cuota del estrato y finalmente se seleccionan los candidatos; es muy utilizada para </tspan><tspan x="0" y="75">mercadeo y sondeos. </tspan></text>
+    <text id="Muestreo_sistemático" data-name="Muestreo sistemático" transform="translate(12099 -9040)" fill="#12263f" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="12.46" y="20">Muestreo </tspan><tspan x="2.231" y="44">sistemático</tspan></text>
+    <text id="Muestreo_por_cuotas" data-name="Muestreo por cuotas" transform="translate(12105 -8662)" fill="#f6f6f6" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="13.167" y="20">Muestreo por </tspan><tspan x="44.636" y="44">cuotas</tspan></text>
+    <text id="Muestreo_por_bola_de_nieve" data-name="Muestreo por bola de nieve" transform="translate(12402 -8666)" fill="#f6f6f6" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="13.167" y="20">Muestreo por </tspan><tspan x="14.228" y="44">bola de nieve</tspan></text>
+    <text id="Muestreo_subjetivo_por_decisión_razonada" data-name="Muestreo subjetivo por decisión razonada" transform="translate(12660 -8666)" fill="#f6f6f6" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="9.258" y="20">Muestreo subjetivo </tspan><tspan x="41.855" y="44">por decisión </tspan></text>
+    <text id="Muestreo_estratificado" data-name="Muestreo estratificado" transform="translate(12305 -9040)" fill="#12263f" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="19.96" y="20">Muestreo </tspan><tspan x="5.394" y="44">estratificado</tspan></text>
+    <text id="Muestreo_por_etapas_múltiples" data-name="Muestreo por etapas múltiples" transform="translate(12505 -9040)" fill="#12263f" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.167" y="20">Muestreo por </tspan><tspan x="1.242" y="44">etapas múltiples</tspan></text>
+    <text id="Muestreo_por_conglomerado" data-name="Muestreo por conglomerado" transform="translate(12716 -9040)" fill="#12263f" font-size="21" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="16.167" y="20">Muestreo por </tspan><tspan x="11.568" y="44">conglomerado</tspan></text>
+  </g>
+</svg>
