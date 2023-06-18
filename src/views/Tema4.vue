@@ -28,10 +28,10 @@
     
     p.mb-5(data-aos="fade-left") Así mismo, hay dos técnicas de muestreo, el muestreo simple y el muestreo no probabilístico.
 
-    ImagenInfografica.color-primario
-      div(x="15%" y="10%" tooltip="Punto 1" numero="1") 
+    //ImagenInfograficaB.color-primario
+      div(x="15%" y="10%" tooltip="Punto 1" numero="1")
         figure
-          img(src='@/assets/curso/temas/tema4/4.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/4.svg', alt='alt')
           
       div(x="25%" y="10%" tooltip="Punto 2" numero="2")
         figure
@@ -60,8 +60,47 @@
       div(x="85%" y="10%" tooltip="Punto 8" numero="8")
         figure
           img(src='@/assets/curso/temas/tema4/12.svg', alt='Texto que describa la imagen')
-    br
-    br
+    
+    .tarjeta.tarjeta--gris.p-4
+      SlyderA(tipo="b")
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/4.svg')
+    
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/6.svg')
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/7.svg')
+    
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/8.svg')
+    
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/9.svg')
+    
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/10.svg')
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/11.svg')
+    
+        .row.justify-content-center.align-items-center.my-lg-4
+          .col-12.col-lg-8
+            figure
+              img(src='@/assets/curso/temas/tema4/12.svg')
+    
     p.mb-5(data-aos="fade-left") Dentro de las características del muestreo, se encuentran las características de los atributos, los cuales hacen referencia a la variable. Estas se presentan de dos tipos (exhaustivos y mutuamente excluyentes). A continuación, se presentan las características del muestreo, ver figura 5.  
     .row
       .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3(data-aos="fade-left")
