@@ -94,32 +94,54 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Probabilidad y estadística para ingeniería y ciencias',
+      referencia:
+        'Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers and Keying Ye. (2012).  Probabilidad y estadística para ingeniería y ciencias.  Pearson.',
+      tipo: 'Libro',
+      link:
+        'https://www.academia.edu/29109277/Probabilidad_estadistica_ingenieria_ciencias_9ed_Walpole_FL_1_',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>Control de calidad</em>',
+      significado:
+        'Sistema de gestión que permite que los procesos sean uniformes para que los productos tengan esa propiedad.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: '<em>Datos</em>',
+      significado:
+        'Información sobre algo concreto que permite su conocimiento exacto o sirve para deducir las consecuencias derivadas de un hecho. Es la Información dispuesta de manera adecuada para su tratamiento por una computadora.',
+    },
+    {
+      termino: '<em>Estadística</em>',
+      significado:
+        'Aplicación de técnicas para conteos, resultados, probabilidades que permitan prever o corregir situaciones en la empresa o en la sociedad.',
+    },
+    {
+      termino: '<em>Muestreo</em>',
+      significado: 'Toma de datos seleccionados al azar o no de una población.',
+    },
+    {
+      termino: '<em>Probabilidades</em>',
+      significado: 'Opciones de ocurrencia en una muestra.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'López, P. l. (2004). Población, muestra y muestreo. Punto Cero, 9 (8).',
+      link:
+        'http://www.scielo.org.bo/scielo.php?pid=s1815-02762004000100012&script=sci_arttext',
+    },
+    {
+      referencia: 'Mantilla, F. (2015). Técnicas de muestreo. ESPE.',
+      link:
+        ' https://docplayer.es/23264329-Tecnicas-de-muestreo-un-enfoque-a-la-investigacion-de-mercados-farid-a-mantilla.html',
+    },
+    {
+      referencia: 'Ruiz Falcó, A. (2006). Muestreos de aceptación. ICADE.',
+      link: 'https://www.scribd.com/document/44015973/muestreo-de-Aceptacion',
     },
   ],
   creditos: [
@@ -132,9 +154,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -142,9 +164,41 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Andrés Aurelio Alarcón Tique ',
+          cargo: 'Experto Técnico ',
+          centro:
+            'Regional Distrito Capital Centro de Electricidad, Electrónica y Telecomunicaciones',
+        },
+        {
+          nombre: 'Miroslava González Hernández ',
+          cargo: 'Diseñador y evaluador instruccional ',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial ',
+        },
+        {
+          nombre: 'Sergio Augusto Ardila Cortés',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Carolina Coca Salazar ',
+          cargo: 'Revisora metodológica y pedagógica  ',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología ',
+        },
+        {
+          nombre: 'Rafael Neftali Lizcano Reyes ',
+          cargo: 'Responsable equipo de desarrollo curricular ',
+          centro:
+            'Regional Santander Centro Industrial del Diseño y la Manufactura ',
+        },
+        {
+          nombre: 'Jhon Jairo Rodríguez Pérez ',
+          cargo: 'Diseñador y evaluador instruccional ',
+          centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Asesora Metodológica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -152,19 +206,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Sebastian Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Cristian Mauricio Otálora Clavijo',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -172,14 +241,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
