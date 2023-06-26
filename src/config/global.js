@@ -104,26 +104,26 @@ export default {
   ],
   glosario: [
     {
-      termino: '<em>Control de calidad</em>',
+      termino: 'Control de calidad',
       significado:
         'Sistema de gestión que permite que los procesos sean uniformes para que los productos tengan esa propiedad.',
     },
     {
-      termino: '<em>Datos</em>',
+      termino: 'Datos',
       significado:
         'Información sobre algo concreto que permite su conocimiento exacto o sirve para deducir las consecuencias derivadas de un hecho. Es la Información dispuesta de manera adecuada para su tratamiento por una computadora.',
     },
     {
-      termino: '<em>Estadística</em>',
+      termino: 'Estadística',
       significado:
         'Aplicación de técnicas para conteos, resultados, probabilidades que permitan prever o corregir situaciones en la empresa o en la sociedad.',
     },
     {
-      termino: '<em>Muestreo</em>',
+      termino: 'Muestreo',
       significado: 'Toma de datos seleccionados al azar o no de una población.',
     },
     {
-      termino: '<em>Probabilidades</em>',
+      termino: 'Probabilidades',
       significado: 'Opciones de ocurrencia en una muestra.',
     },
   ],
@@ -150,12 +150,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de Línea de Producción',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
@@ -171,7 +171,7 @@ export default {
         },
         {
           nombre: 'Miroslava González Hernández ',
-          cargo: 'Diseñador y evaluador instruccional ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
           centro: 'Regional Distrito Capital Centro de Gestión Industrial ',
         },
         {
@@ -181,18 +181,18 @@ export default {
         },
         {
           nombre: 'Carolina Coca Salazar ',
-          cargo: 'Revisora metodológica y pedagógica  ',
+          cargo: 'Revisora Metodológica y Pedagógica  ',
           centro: 'Regional Distrito Capital Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Rafael Neftali Lizcano Reyes ',
-          cargo: 'Responsable equipo de desarrollo curricular ',
+          cargo: 'Responsable Equipo de Desarrollo Curricular ',
           centro:
             'Regional Santander Centro Industrial del Diseño y la Manufactura ',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez ',
-          cargo: 'Diseñador y evaluador instruccional ',
+          cargo: 'Diseñador y Evaluador Instruccional ',
           centro: 'Regional Distrito Capital Centro de Diseño y Metrología',
         },
         {
@@ -222,7 +222,7 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
@@ -242,12 +242,12 @@ export default {
       autores: [
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación y vinculación en plataforma LMS',
+          cargo: 'Validación y Vinculación en Plataforma LMS',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Naranjo Farfán',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Validación de Contenidos Accesibles',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],

@@ -23,32 +23,54 @@
             br
             br
       
-    .col-sm-12.mb-3.col-lg-10.offset-lg-1.mt-3
-      .tarjeta.color-acento-contenido.p-3
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/temas/tema3/2.svg")
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h3 Conceptos básicos de estadística 
-                p.text-white.mb-1 Para una mayor información sobre estadística descriptiva, se sugiere revisar el siguiente video.
-              .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.youtube.com/embed/yEs4o8Gr0Nw)" target="_blank")
-                  span video
-                  i.fas.fa-file-video
+    .row
+      .titulo-sexto.color-primario.mb-3.mt-5(data-aos="fade-left")
+        p.titulo.pb-0.mb-0 <b>Tabla 1.</b> <i>Conceptos básicos de estadística</i>
+
+    .row.justify-content-center.align-items-center.mb-3.mt-3
+      .col-lg-6 
+        figure
+          img(src='@/assets/curso/temas/tema3/8.svg', alt='')
     
-    br  
+
+
+
+    //- .col-sm-12.mb-3.col-lg-10.offset-lg-1.mt-3.mb-3
+    //-   .tarjeta.color-acento-contenido.p-3
+    //-     .row.justify-content-around.align-items-center
+    //-       .col-3.col-sm-2.col-lg-1
+    //-         img(src="@/assets/curso/temas/tema3/2.svg")
+    //-       .col
+    //-         .row.justify-content-between.align-items-center
+    //-           .col.mb-3.mb-sm-0
+    //-             h3 Conceptos básicos de estadística 
+    //-             p.text-white.mb-1 Para una mayor información sobre estadística descriptiva, se sugiere revisar el siguiente video.
+    //-           .col-sm-auto
+    //-             a.boton.color-acento-botones(href="https://www.youtube.com/embed/yEs4o8Gr0Nw)" target="_blank")
+    //-               span video
+    //-               i.fas.fa-file-video
+    
     .row
       .col-sm-12.offset-lg-3.titulo-sexto.color-acento-contenido.mb-3
         h5 Figura 2 
-        span #[em  Elementos de la estadística descriptiva]                  
-    .row   
-      .col-sm-12.col-lg-10.offset-lg-1
+        span #[em  Concepto gráfico de población, muestra e individuo]                  
+    .row.justify-content-center.align-items-center
+      .col-sm-12.col-lg-6
         figure
           img(src='@/assets/curso/temas/tema3/3.svg', alt='')
+
+    p.mb-5.mt-5(data-aos="fade-left") Los principales elementos que conforman la estadística descriptiva se pueden apreciar en la siguiente figura 3.
     
+    .row
+      .col-sm-12.offset-lg-3.titulo-sexto.color-acento-contenido.mb-5
+        h5 Figura 3 
+        span #[em  Elementos de la estadística descriptiva]   
     
+    .row.justify-content-center.align-items-center
+      .col-sm-12.col-lg-10.mb-5
+        figure
+          img(src='@/assets/curso/temas/tema3/9.svg', alt='')  
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-12.offset-lg-1
         .row.justify-content-center.align-items-center
@@ -76,7 +98,7 @@
       .row(titulo="Medidas de centralización")
         .col-md-3.mb-4.mb-md-0.offset-lg-1
           p.mb-3(data-aos="fade-left") #[strong Figura 3]
-          p.mb-3(data-aos="fade-left") #[em formula a la medida]
+          p.mb-3(data-aos="fade-left") #[em Formula a la medida]
           figure
             img(src='@/assets/curso/temas/tema3/5.svg', alt='Texto que describa la imagen')
             

@@ -16,7 +16,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/1.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 La probabilidad está relacionada con la estadística por estar unidas donde se registran los sucesos, realmente la probabilidad es una parte de la estadística.  Su origen etimológico proviene del latín «probabilitas» o «posibilitatis» que significan probar o comprobar y la terminación tat, cualidad.  Esto es, la cualidad de probar o de comprobar.
+          p.mb-0 La probabilidad está relacionada con la estadística por estar unidas donde se registran los sucesos, realmente la probabilidad es una parte de la estadística.  Su origen etimológico proviene del latín «#[em probabilitas]» o «#[em posibilitatis]» que significan probar o comprobar y la terminación tat, cualidad.  Esto es, la cualidad de probar o de comprobar.
 
     p.mt-3(data-aos="fade-left") Los elementos de la probabilidad permiten establecer la conexión entre la ciencia y la estadística misma, en forma de una conexión para expresar en lenguaje los datos probables.  Permiten analizar y determinar cómo la información de la muestra es concluyente con el fenómeno en estudio.  La población muestra todos los elementos posibles y los elementos de probabilidad, así como el valor posible de la muestra seleccionada.
     p.mb-3(data-aos="fade-left") Los elementos de probabilidad tienen la responsabilidad de analizar y concluir si los datos extraídos de la muestra son considerables o no.  Siempre van a presentar la conclusión de la muestra y de la población en general.
@@ -37,11 +37,11 @@
         p Las probabilidades discretas pueden ser:
         ul.lista-ul--color
           li
-          |• #[strong Distribución Binomial y multinomial:] se utiliza cuando se realizan pruebas repetidas con dos resultados cada uno, generalmente éxito o fracaso, cara o sello.  Utilizado en la fabricación o ensamble, resultado defectuoso o no.
+          |• #[strong Distribución binomial y multinomial:] se utiliza cuando se realizan pruebas repetidas con dos resultados cada uno, generalmente éxito o fracaso, cara o sello.  Utilizado en la fabricación o ensamble, resultado defectuoso o no.
           li
-          |• #[strong Distribución Hipergeométrica:] similar a la distribución binomial, pero se diferencia que no tiene independencia y no realiza reemplazos de la muestra.
+          |• #[strong Distribución hipergeométrica:] similar a la distribución binomial, pero se diferencia que no tiene independencia y no realiza reemplazos de la muestra.
           li
-          |• #[strong Distribución Binomial negativa y geométrica:] sus probabilidades dependen del número de éxitos deseados y de la probabilidad de éxito en una prueba.
+          |• #[strong Distribución binomial negativa y geométrica:] sus probabilidades dependen del número de éxitos deseados y de la probabilidad de éxito en una prueba.
           li
           |• #[strong Distribución de Poisson:] está basada en experimentos que producen valores numéricos de una variable aleatoria X, el número de resultados que ocurren durante un intervalo de tiempo determinado o en una región específica, se denominan experimentos de Poisson. El intervalo de tiempo puede ser de diferente duración, como un minuto, un día, una semana, un mes o un año.
 

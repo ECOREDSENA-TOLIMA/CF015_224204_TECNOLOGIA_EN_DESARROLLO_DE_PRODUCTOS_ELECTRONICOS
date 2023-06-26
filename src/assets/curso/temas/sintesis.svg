@@ -1,100 +1,123 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1249" height="1182" viewBox="0 0 1249 1182">
-  <g id="Grupo_1013349" data-name="Grupo 1013349" transform="translate(-179.924 -359.329)">
-    <rect id="Rectángulo_347331" data-name="Rectángulo 347331" width="230" height="55" transform="translate(684.924 359.329)" fill="#00cca7"/>
-    <rect id="Rectángulo_347332" data-name="Rectángulo 347332" width="512" height="81" transform="translate(543.924 488.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347427" data-name="Rectángulo 347427" width="190" height="137" transform="translate(179.924 856.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347429" data-name="Rectángulo 347429" width="190" height="110" transform="translate(424.924 883.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347435" data-name="Rectángulo 347435" width="190" height="89" transform="translate(982.924 856.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347438" data-name="Rectángulo 347438" width="190" height="89" transform="translate(1229.924 856.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347439" data-name="Rectángulo 347439" width="190" height="89" transform="translate(1229.924 1037.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347440" data-name="Rectángulo 347440" width="190" height="107" transform="translate(1229.924 1208.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347436" data-name="Rectángulo 347436" width="190" height="37" transform="translate(982.924 1058.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347437" data-name="Rectángulo 347437" width="190" height="37" transform="translate(982.924 1105.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347433" data-name="Rectángulo 347433" width="230" height="131" transform="translate(684.924 860.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347434" data-name="Rectángulo 347434" width="230" height="111" transform="translate(684.924 1076.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347430" data-name="Rectángulo 347430" width="190" height="110" transform="translate(424.924 1077.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347432" data-name="Rectángulo 347432" width="190" height="110" transform="translate(424.924 1431.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347431" data-name="Rectángulo 347431" width="190" height="61" transform="translate(424.924 1275.329)" fill="#00cca7" opacity="0.15"/>
-    <rect id="Rectángulo_347428" data-name="Rectángulo 347428" width="190" height="133" transform="translate(179.924 1077.329)" fill="#00cca7" opacity="0.15"/>
-    <text id="Control_de_calidad" data-name="Control de calidad" transform="translate(712.924 394.329)" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Control de calidad</tspan></text>
-    <line id="Línea_2498" data-name="Línea 2498" y2="47" transform="translate(800.424 414.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2499" data-name="Línea 2499" y2="47" transform="translate(800 591.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2501" data-name="Línea 2501" y2="47" transform="translate(265 637.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2506" data-name="Línea 2506" y2="47" transform="translate(265 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2508" data-name="Línea 2508" y2="47" transform="translate(514 810.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2512" data-name="Línea 2512" y2="47" transform="translate(799 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2514" data-name="Línea 2514" y2="47" transform="translate(1073 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2516" data-name="Línea 2516" y2="47" transform="translate(1326 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2517" data-name="Línea 2517" y2="47" transform="translate(1326 956.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2518" data-name="Línea 2518" y2="47" transform="translate(1326 1137.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2515" data-name="Línea 2515" y2="47" transform="translate(1073 956.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2507" data-name="Línea 2507" y2="47" transform="translate(265 1000.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2509" data-name="Línea 2509" y2="47" transform="translate(514 1000.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2513" data-name="Línea 2513" y2="47" transform="translate(801 1000.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2510" data-name="Línea 2510" y2="47" transform="translate(514 1199.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2511" data-name="Línea 2511" y2="47" transform="translate(514 1351.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2502" data-name="Línea 2502" y2="47" transform="translate(511 637.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2503" data-name="Línea 2503" y2="47" transform="translate(800 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2504" data-name="Línea 2504" y2="47" transform="translate(1071 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2505" data-name="Línea 2505" y2="47" transform="translate(1325.924 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <line id="Línea_2500" data-name="Línea 2500" x1="1061" transform="translate(265.424 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
-    <path id="Polígono_21" data-name="Polígono 21" d="M8.5,0,17,14H0Z" transform="translate(808.924 467.829) rotate(180)" fill="#707070"/>
-    <path id="Polígono_22" data-name="Polígono 22" d="M8.5,0,17,14H0Z" transform="translate(273.924 695.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_27" data-name="Polígono 27" d="M8.5,0,17,14H0Z" transform="translate(273.924 845.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_29" data-name="Polígono 29" d="M8.5,0,17,14H0Z" transform="translate(522.924 868.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_33" data-name="Polígono 33" d="M8.5,0,17,14H0Z" transform="translate(807.924 845.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_35" data-name="Polígono 35" d="M8.5,0,17,14H0Z" transform="translate(1081.924 845.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_37" data-name="Polígono 37" d="M8.5,0,17,14H0Z" transform="translate(1334.924 845.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_38" data-name="Polígono 38" d="M8.5,0,17,14H0Z" transform="translate(1334.924 1014.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_39" data-name="Polígono 39" d="M8.5,0,17,14H0Z" transform="translate(1334.924 1195.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_36" data-name="Polígono 36" d="M8.5,0,17,14H0Z" transform="translate(1081.924 1014.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_28" data-name="Polígono 28" d="M8.5,0,17,14H0Z" transform="translate(273.924 1058.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_30" data-name="Polígono 30" d="M8.5,0,17,14H0Z" transform="translate(522.924 1058.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_34" data-name="Polígono 34" d="M8.5,0,17,14H0Z" transform="translate(809.924 1058.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_31" data-name="Polígono 31" d="M8.5,0,17,14H0Z" transform="translate(522.924 1257.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_32" data-name="Polígono 32" d="M8.5,0,17,14H0Z" transform="translate(522.924 1409.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_23" data-name="Polígono 23" d="M8.5,0,17,14H0Z" transform="translate(519.924 695.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_24" data-name="Polígono 24" d="M8.5,0,17,14H0Z" transform="translate(808.924 696.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_25" data-name="Polígono 25" d="M8.5,0,17,14H0Z" transform="translate(1079.924 696.329) rotate(180)" fill="#707070"/>
-    <path id="Polígono_26" data-name="Polígono 26" d="M8.5,0,17,14H0Z" transform="translate(1334.924 696.329) rotate(180)" fill="#707070"/>
-    <text id="Se_considera_de_suma_importancia_analizar_ciertos_factores_claves_para_que_los_productos_electrónicos_sean_de_calidad" data-name="Se considera de suma importancia analizar ciertos factores claves para que los productos electrónicos sean de calidad" transform="translate(552.924 500.329)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="10.046" y="17">Se considera de suma importancia analizar ciertos factores </tspan><tspan x="11.984" y="50">claves para que los productos electrónicos sean de calidad</tspan></text>
-    <rect id="Rectángulo_347422" data-name="Rectángulo 347422" width="170" height="55" transform="translate(189.924 718.329)" fill="#3c0061"/>
-    <rect id="Rectángulo_347423" data-name="Rectángulo 347423" width="190" height="83" transform="translate(417.924 718.329)" fill="#3c0061"/>
-    <rect id="Rectángulo_347424" data-name="Rectángulo 347424" width="242" height="55" transform="translate(672.924 718.329)" fill="#3c0061"/>
-    <rect id="Rectángulo_347425" data-name="Rectángulo 347425" width="149" height="55" transform="translate(996.924 718.329)" fill="#3c0061"/>
-    <rect id="Rectángulo_347426" data-name="Rectángulo 347426" width="149" height="55" transform="translate(1249.924 718.329)" fill="#3c0061"/>
-    <text id="Implementación" transform="translate(193.924 730.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="7.909" y="19">Implementación</tspan></text>
-    <text id="Manipulación_de_datos_" data-name="Manipulación de datos
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1249" height="1409.681" viewBox="0 0 1249 1409.681">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="1249" height="1409.681" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1013351" data-name="Grupo 1013351" transform="translate(-179.924 -131.648)">
+    <g id="Cuadrícula_de_repetición_2" data-name="Cuadrícula de repetición 2" transform="translate(179.924 131.648)" clip-path="url(#clip-path)">
+      <g id="Grupo_1013350" data-name="Grupo 1013350" transform="translate(-179.924 -131.648)">
+        <g id="Cuadrícula_de_repetición_1" data-name="Cuadrícula de repetición 1" transform="translate(179.924 131.648)" clip-path="url(#clip-path)">
+          <g id="Grupo_1013349" data-name="Grupo 1013349" transform="translate(-179.924 -131.648)">
+            <g id="Grupo_1013348" data-name="Grupo 1013348">
+              <text id="Control_de_calidad_en_el_desarrollo_de_productos_electrónicos." data-name="Control de calidad en el desarrollo de productos electrónicos." transform="translate(206 145)" fill="#12263f" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Control de calidad en el desarrollo de productos electrónicos.</tspan></text>
+              <text id="Síntesis:_Control_de_calidad." data-name="Síntesis: Control de calidad." transform="translate(206.333 184)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Síntesis: Control de calidad.</tspan></text>
+              <rect id="Rectángulo_33766" data-name="Rectángulo 33766" width="8" height="81" transform="translate(180.333 132)" fill="#00cca7"/>
+              <g id="g4" transform="translate(1213.329 -477.063)">
+                <g id="g6-0" transform="translate(101.671 608.712)">
+                  <path id="path8-1" d="M771.727,2781.09a9.7,9.7,0,1,0,9.721,9.7,9.711,9.711,0,0,0-9.721-9.7Zm12.639,22.394-.009,8.887-7.831-8.883-7.384,0v13.04l5.421,0,.078-8.64,7.546,8.635,7.592.028.067-13.026-5.479-.035Zm-33.336,0h0l-.1,13.054,15.76-.018.014-2.906-10-.009.041-2.46,8.89-.04v-2.781l-8.849.163v-2.056l9.584-.026.019-2.907-15.356-.013Zm54.364,0h-6.28l-8.9,13.047,5.654.008,1.351-2.491,9.168.045,1.362,2.439,6.069,0Zm-65.023,0c-.3,0-.636,0-1.027,0a18.839,18.839,0,0,0-3.026.15,10.373,10.373,0,0,0-3.6,1.006,2.773,2.773,0,0,0-1.794,2.558,2.776,2.776,0,0,0,.292,1.392,2.075,2.075,0,0,0,.37.538,5.579,5.579,0,0,0,3.006,1.5,42.906,42.906,0,0,0,4.312.864,17.743,17.743,0,0,1,2.609.531,2.966,2.966,0,0,1,1.058.547.569.569,0,0,1-.107.814,3.029,3.029,0,0,1-1.529.545,13.571,13.571,0,0,1-2.729-.034c-1.051-.16-1.7-.51-1.838-1a2.527,2.527,0,0,1-.054-.424l-.019-.3-.4-.01c-.223-.005-1.487,0-2.81.01l-2.409.018v.174a5.2,5.2,0,0,0,.12.937c.341,1.415,1.438,2.3,3.438,2.79a18.416,18.416,0,0,0,2.629.4c.884.066,2.688.088,3.846.047,4.1-.15,6.858-1.127,7.7-2.722a2.628,2.628,0,0,0,.306-1.266,2.693,2.693,0,0,0-.485-1.6,4.128,4.128,0,0,0-2.146-1.512,21.717,21.717,0,0,0-4.4-1,24.725,24.725,0,0,1-3.614-.726,2.125,2.125,0,0,1-1.058-.625.6.6,0,0,1,0-.447c.147-.322.808-.565,1.73-.641a11.461,11.461,0,0,1,2.131.064,3.1,3.1,0,0,1,1.514.561,1.376,1.376,0,0,1,.3.568c.032.124.056.166.1.173s1.232.01,2.673.01l2.621-.01.009-.159a3.107,3.107,0,0,0-.13-.855c-.434-1.472-2.034-2.359-4.9-2.719a18.744,18.744,0,0,0-2.685-.142Zm61.557,3.207,2.816,4.744-5.8-.035Zm-33.775,12.607-41.521.031v6.9h13.384c12.828,0,13.394.009,13.781.19a1.674,1.674,0,0,1,.9,1.492c.1,1.1.276-.055-10.019,17.907l-6.109,10.488,4.936,4.638,24.647-41.649Zm6.462.035,24.681,41.534,5.027-4.58-6.192-10.516c-10.321-17.726-10.128-16.851-10.029-17.936a1.647,1.647,0,0,1,.905-1.472c.388-.177.956-.189,13.816-.189h13.416v-6.813l-41.623-.031Zm-3.344,7.263-22.464,38.2,5.847,2.771,12.8-21.821,2.142-3.84c.279-.5.618-.691,1.644-.694a1.78,1.78,0,0,1,1.655.685l2.359,3.943,13.084,21.945,5.974-3.369-23.042-37.82Z" transform="translate(-726.632 -2781.09)" fill="#00ac00" fill-rule="evenodd"/>
+                </g>
+              </g>
+              <rect id="Rectángulo_347331" data-name="Rectángulo 347331" width="230" height="55" transform="translate(684.924 359.329)" fill="#00cca7"/>
+              <rect id="Rectángulo_347332" data-name="Rectángulo 347332" width="512" height="81" transform="translate(543.924 488.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347427" data-name="Rectángulo 347427" width="190" height="137" transform="translate(179.924 856.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347429" data-name="Rectángulo 347429" width="190" height="110" transform="translate(424.924 883.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347435" data-name="Rectángulo 347435" width="190" height="89" transform="translate(982.924 856.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347438" data-name="Rectángulo 347438" width="190" height="89" transform="translate(1229.924 856.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347439" data-name="Rectángulo 347439" width="190" height="89" transform="translate(1229.924 1037.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347440" data-name="Rectángulo 347440" width="190" height="107" transform="translate(1229.924 1208.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347436" data-name="Rectángulo 347436" width="190" height="37" transform="translate(982.924 1058.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347437" data-name="Rectángulo 347437" width="190" height="37" transform="translate(982.924 1105.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347433" data-name="Rectángulo 347433" width="230" height="131" transform="translate(684.924 860.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347434" data-name="Rectángulo 347434" width="230" height="111" transform="translate(684.924 1076.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347430" data-name="Rectángulo 347430" width="190" height="110" transform="translate(424.924 1077.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347432" data-name="Rectángulo 347432" width="190" height="110" transform="translate(424.924 1431.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347431" data-name="Rectángulo 347431" width="190" height="61" transform="translate(424.924 1275.329)" fill="#00cca7" opacity="0.15"/>
+              <rect id="Rectángulo_347428" data-name="Rectángulo 347428" width="190" height="133" transform="translate(179.924 1077.329)" fill="#00cca7" opacity="0.15"/>
+              <text id="Control_de_calidad" data-name="Control de calidad" transform="translate(712.924 394.329)" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Control de calidad</tspan></text>
+              <line id="Línea_2498" data-name="Línea 2498" y2="47" transform="translate(800.424 414.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2499" data-name="Línea 2499" y2="47" transform="translate(800 591.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2501" data-name="Línea 2501" y2="47" transform="translate(265 637.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2506" data-name="Línea 2506" y2="47" transform="translate(265 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2508" data-name="Línea 2508" y2="47" transform="translate(514 810.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2512" data-name="Línea 2512" y2="47" transform="translate(799 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2514" data-name="Línea 2514" y2="47" transform="translate(1073 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2516" data-name="Línea 2516" y2="47" transform="translate(1326 787.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2517" data-name="Línea 2517" y2="47" transform="translate(1326 956.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2518" data-name="Línea 2518" y2="47" transform="translate(1326 1137.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2515" data-name="Línea 2515" y2="47" transform="translate(1073 956.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2507" data-name="Línea 2507" y2="47" transform="translate(265 1000.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2509" data-name="Línea 2509" y2="47" transform="translate(514 1000.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2513" data-name="Línea 2513" y2="47" transform="translate(801 1000.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2510" data-name="Línea 2510" y2="47" transform="translate(514 1199.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2511" data-name="Línea 2511" y2="47" transform="translate(514 1351.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2502" data-name="Línea 2502" y2="47" transform="translate(511 637.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2503" data-name="Línea 2503" y2="47" transform="translate(800 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2504" data-name="Línea 2504" y2="47" transform="translate(1071 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2505" data-name="Línea 2505" y2="47" transform="translate(1325.924 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <line id="Línea_2500" data-name="Línea 2500" x1="1061" transform="translate(265.424 638.329)" fill="none" stroke="#707070" stroke-width="2"/>
+              <path id="Polígono_21" data-name="Polígono 21" d="M8.5,0,17,14H0Z" transform="translate(808.924 467.829) rotate(180)" fill="#707070"/>
+              <path id="Polígono_22" data-name="Polígono 22" d="M8.5,0,17,14H0Z" transform="translate(273.924 695.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_27" data-name="Polígono 27" d="M8.5,0,17,14H0Z" transform="translate(273.924 845.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_29" data-name="Polígono 29" d="M8.5,0,17,14H0Z" transform="translate(522.924 868.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_33" data-name="Polígono 33" d="M8.5,0,17,14H0Z" transform="translate(807.924 845.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_35" data-name="Polígono 35" d="M8.5,0,17,14H0Z" transform="translate(1081.924 845.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_37" data-name="Polígono 37" d="M8.5,0,17,14H0Z" transform="translate(1334.924 845.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_38" data-name="Polígono 38" d="M8.5,0,17,14H0Z" transform="translate(1334.924 1014.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_39" data-name="Polígono 39" d="M8.5,0,17,14H0Z" transform="translate(1334.924 1195.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_36" data-name="Polígono 36" d="M8.5,0,17,14H0Z" transform="translate(1081.924 1014.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_28" data-name="Polígono 28" d="M8.5,0,17,14H0Z" transform="translate(273.924 1058.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_30" data-name="Polígono 30" d="M8.5,0,17,14H0Z" transform="translate(522.924 1058.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_34" data-name="Polígono 34" d="M8.5,0,17,14H0Z" transform="translate(809.924 1058.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_31" data-name="Polígono 31" d="M8.5,0,17,14H0Z" transform="translate(522.924 1257.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_32" data-name="Polígono 32" d="M8.5,0,17,14H0Z" transform="translate(522.924 1409.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_23" data-name="Polígono 23" d="M8.5,0,17,14H0Z" transform="translate(519.924 695.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_24" data-name="Polígono 24" d="M8.5,0,17,14H0Z" transform="translate(808.924 696.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_25" data-name="Polígono 25" d="M8.5,0,17,14H0Z" transform="translate(1079.924 696.329) rotate(180)" fill="#707070"/>
+              <path id="Polígono_26" data-name="Polígono 26" d="M8.5,0,17,14H0Z" transform="translate(1334.924 696.329) rotate(180)" fill="#707070"/>
+              <text id="Se_considera_de_suma_importancia_analizar_ciertos_factores_claves_para_que_los_productos_electrónicos_sean_de_calidad" data-name="Se considera de suma importancia analizar ciertos factores claves para que los productos electrónicos sean de calidad" transform="translate(552.924 500.329)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="10.046" y="17">Se considera de suma importancia analizar ciertos factores </tspan><tspan x="11.984" y="50">claves para que los productos electrónicos sean de calidad</tspan></text>
+              <rect id="Rectángulo_347422" data-name="Rectángulo 347422" width="170" height="55" transform="translate(189.924 718.329)" fill="#3c0061"/>
+              <rect id="Rectángulo_347423" data-name="Rectángulo 347423" width="190" height="83" transform="translate(417.924 718.329)" fill="#3c0061"/>
+              <rect id="Rectángulo_347424" data-name="Rectángulo 347424" width="242" height="55" transform="translate(672.924 718.329)" fill="#3c0061"/>
+              <rect id="Rectángulo_347425" data-name="Rectángulo 347425" width="149" height="55" transform="translate(996.924 718.329)" fill="#3c0061"/>
+              <rect id="Rectángulo_347426" data-name="Rectángulo 347426" width="149" height="55" transform="translate(1249.924 718.329)" fill="#3c0061"/>
+              <text id="Implementación" transform="translate(193.924 730.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="7.909" y="19">Implementación</tspan></text>
+              <text id="Manipulación_de_datos_" data-name="Manipulación de datos
 " transform="translate(428.924 733.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="7.954" y="19">Manipulación de </tspan><tspan x="57.544" y="46">datos</tspan></text>
-    <text id="Estadística_descriptiva" data-name="Estadística descriptiva" transform="translate(683.924 733.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="8.132" y="19">Estadística descriptiva</tspan></text>
-    <text id="Muestreo" transform="translate(1007.924 733.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="21.841" y="19">Muestreo</tspan></text>
-    <text id="Probabilidad" transform="translate(1260.924 733.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="7.891" y="19">Probabilidad</tspan></text>
-    <text id="Que" transform="translate(297.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Que</tspan></text>
-    <text id="Establece" transform="translate(531.924 824.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Establece</tspan></text>
-    <text id="Tiene" transform="translate(816.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Tiene</tspan></text>
-    <text id="Es_una" data-name="Es una" transform="translate(1090.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Es una</tspan></text>
-    <text id="Es_la" data-name="Es la" transform="translate(1343.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Es la</tspan></text>
-    <text id="Determinada" transform="translate(1334.924 970.329)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Determinada</tspan></text>
-    <text id="Permitiendo" transform="translate(1334.924 1151.329)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Permitiendo</tspan></text>
-    <text id="Puede_ser" data-name="Puede ser" transform="translate(1038.924 1025.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Puede ser</tspan></text>
-    <text id="Comparando" transform="translate(288.924 1014.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Comparando</tspan></text>
-    <text id="Siguiendo" transform="translate(537.924 1014.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Siguiendo</tspan></text>
-    <text id="Ayudando" transform="translate(824.924 1014.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Ayudando</tspan></text>
-    <text id="Teniendo_en_cuenta" data-name="Teniendo en cuenta" transform="translate(537.924 1208.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Teniendo </tspan><tspan x="0" y="39">en cuenta</tspan></text>
-    <text id="Que_permiten" data-name="Que permiten" transform="translate(537.924 1360.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Que </tspan><tspan x="0" y="39">permiten</tspan></text>
-    <text id="Permite_que_se_cumplan_los_protocolos_que_aseguran_la_calidad_en_el_producto_final" data-name="Permite que se cumplan los protocolos que aseguran la calidad en el producto final" transform="translate(188.924 879.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="31.734" y="15">Permite que se </tspan><tspan x="1.449" y="39">cumplan los protocolos </tspan><tspan x="0.844" y="63">que aseguran la calidad </tspan><tspan x="17.203" y="87">en el producto final</tspan></text>
-    <text id="La_protección_de_los_datos_ante_su_modificación" data-name="La protección de los datos ante su modificación" transform="translate(433.924 906.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="13.199" y="15">La protección de los </tspan><tspan x="36.801" y="39">datos ante su </tspan><tspan x="38.898" y="63">modificación</tspan></text>
-    <text id="Técnica_de_selección_de_datos_de_la_población" data-name="Técnica de selección de datos de la población" transform="translate(991.924 866.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0.016" y="15">Técnica de selección de </tspan><tspan x="8.992" y="39">datos de la población</tspan></text>
-    <text id="Posibilidad_de_que_un_suceso_ocurra_o_no" data-name="Posibilidad de que un suceso ocurra o no" transform="translate(1238.924 879.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="8.977" y="15">Posibilidad de que un </tspan><tspan x="17.102" y="39">suceso ocurra o no</tspan></text>
-    <text id="Por_la_frecuencia_con_que_se_repite_el_evento" data-name="Por la frecuencia con que se repite el evento" transform="translate(1238.924 1060.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="9.957" y="15">Por la frecuencia con </tspan><tspan x="5.426" y="39">que se repite el evento</tspan></text>
-    <text id="Establecer_la_conexión_entre_el_lenguaje_y_los_datos" data-name="Establecer la conexión entre el lenguaje y los datos" transform="translate(1238.924 1231.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="5.023" y="15">Establecer la conexión </tspan><tspan x="8.355" y="39">entre el lenguaje y los </tspan><tspan x="64.914" y="63">datos</tspan></text>
-    <text id="Aleatorias" transform="translate(991.924 1066.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="49.027" y="15">Aleatorias</tspan></text>
-    <text id="No_aleatorias" data-name="No aleatorias" transform="translate(991.924 1113.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="37.648" y="15">No aleatorias</tspan></text>
-    <text id="Como_base_la_descripción_de_los_datos_recolectados_para_generar_patrones_de_comportamiento_a_futuro" data-name="Como base la descripción de los datos recolectados para generar patrones de comportamiento a futuro" transform="translate(704.924 883.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="2.914" y="15">Como base la descripción </tspan><tspan x="3.441" y="39">de los datos recolectados </tspan><tspan x="6.156" y="63">para generar patrones de </tspan><tspan x="5.902" y="87">comportamiento a futuro</tspan></text>
-    <text id="Controlar_la_fabricación_su_desarrollo_y_el_beneficio_real_de_la_producción" data-name="Controlar la fabricación, su desarrollo y el beneficio real de la producción" transform="translate(704.924 1099.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="10.277" y="15">Controlar la fabricación, </tspan><tspan x="0.508" y="39">su desarrollo y el beneficio </tspan><tspan x="20.957" y="63">real de la producción</tspan></text>
-    <text id="Los_protocolos_de_calidad_establecido_por_el_ordenador_del_pedido" data-name="Los protocolos de calidad establecido por el ordenador del pedido" transform="translate(433.924 1100.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="21.141" y="15">Los protocolos de </tspan><tspan x="2.285" y="39">calidad establecido por </tspan><tspan x="1.441" y="63">el ordenador del pedido</tspan></text>
-    <text id="Revisar_los_estados_del_cumplimiento_de_los_protocolos" data-name="Revisar los estados del cumplimiento de los protocolos" transform="translate(433.924 1454.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="3.098" y="15">Revisar los estados del </tspan><tspan x="12.977" y="39">cumplimiento de los </tspan><tspan x="46.844" y="63">protocolos</tspan></text>
-    <text id="Las_gráficas_de_control" data-name="Las gráficas de control" transform="translate(433.924 1298.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="4.133" y="15">Las gráficas de control</tspan></text>
-    <text id="El_producto_final_con_el_producto_que_se_planteó_al_inicio_del_proceso" data-name="El producto final con el producto que se planteó al inicio del proceso" transform="translate(188.924 1100.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="4.223" y="15">El producto final con el </tspan><tspan x="27.594" y="39">producto que se </tspan><tspan x="16.477" y="63">planteó al inicio del </tspan><tspan x="56.207" y="87">proceso</tspan></text>
+              <text id="Estadística_descriptiva" data-name="Estadística descriptiva" transform="translate(683.924 733.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="8.132" y="19">Estadística descriptiva</tspan></text>
+              <text id="Muestreo" transform="translate(1007.924 733.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="21.841" y="19">Muestreo</tspan></text>
+              <text id="Probabilidad" transform="translate(1260.924 733.329)" fill="#fff" font-size="20" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="7.891" y="19">Probabilidad</tspan></text>
+              <text id="Que" transform="translate(297.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Que</tspan></text>
+              <text id="Establece" transform="translate(531.924 824.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Establece</tspan></text>
+              <text id="Tiene" transform="translate(816.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Tiene</tspan></text>
+              <text id="Es_una" data-name="Es una" transform="translate(1090.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Es una</tspan></text>
+              <text id="Es_la" data-name="Es la" transform="translate(1343.924 801.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Es la</tspan></text>
+              <text id="Determinada" transform="translate(1334.924 970.329)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Determinada</tspan></text>
+              <text id="Permitiendo" transform="translate(1334.924 1151.329)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Permitiendo</tspan></text>
+              <text id="Puede_ser" data-name="Puede ser" transform="translate(1038.924 1025.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Puede ser</tspan></text>
+              <text id="Comparando" transform="translate(288.924 1014.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Comparando</tspan></text>
+              <text id="Siguiendo" transform="translate(537.924 1014.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Siguiendo</tspan></text>
+              <text id="Ayudando" transform="translate(824.924 1014.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Ayudando</tspan></text>
+              <text id="Teniendo_en_cuenta" data-name="Teniendo en cuenta" transform="translate(537.924 1208.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Teniendo </tspan><tspan x="0" y="39">en cuenta</tspan></text>
+              <text id="Que_permiten" data-name="Que permiten" transform="translate(537.924 1360.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Que </tspan><tspan x="0" y="39">permiten</tspan></text>
+              <text id="Permite_que_se_cumplan_los_protocolos_que_aseguran_la_calidad_en_el_producto_final." data-name="Permite que se cumplan los protocolos que aseguran la calidad en el producto final." transform="translate(188.924 879.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="31.734" y="15">Permite que se </tspan><tspan x="1.449" y="39">cumplan los protocolos </tspan><tspan x="0.844" y="63">que aseguran la calidad </tspan><tspan x="15.098" y="87">en el producto final.</tspan></text>
+              <text id="La_protección_de_los_datos_ante_su_modificación." data-name="La protección de los datos ante su modificación." transform="translate(433.924 906.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="13.199" y="15">La protección de los </tspan><tspan x="36.801" y="39">datos ante su </tspan><tspan x="36.793" y="63">modificación.</tspan></text>
+              <text id="Técnica_de_selección_de_datos_de_la_población." data-name="Técnica de selección de datos de la población." transform="translate(991.924 866.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0.016" y="15">Técnica de selección de </tspan><tspan x="6.887" y="39">datos de la población.</tspan></text>
+              <text id="Posibilidad_de_que_un_suceso_ocurra_o_no." data-name="Posibilidad de que un suceso ocurra o no." transform="translate(1238.924 879.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="8.977" y="15">Posibilidad de que un </tspan><tspan x="14.996" y="39">suceso ocurra o no.</tspan></text>
+              <text id="Por_la_frecuencia_con_que_se_repite_el_evento." data-name="Por la frecuencia con que se repite el evento." transform="translate(1238.924 1060.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="9.957" y="15">Por la frecuencia con </tspan><tspan x="3.32" y="39">que se repite el evento.</tspan></text>
+              <text id="Establecer_la_conexión_entre_el_lenguaje_y_los_datos." data-name="Establecer la conexión entre el lenguaje y los datos." transform="translate(1238.924 1231.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="5.023" y="15">Establecer la conexión </tspan><tspan x="8.355" y="39">entre el lenguaje y los </tspan><tspan x="62.809" y="63">datos.</tspan></text>
+              <text id="Aleatorias" transform="translate(991.924 1066.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="49.027" y="15">Aleatorias</tspan></text>
+              <text id="No_aleatorias" data-name="No aleatorias" transform="translate(991.924 1113.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="37.648" y="15">No aleatorias</tspan></text>
+              <text id="Como_base_la_descripción_de_los_datos_recolectados_para_generar_patrones_de_comportamiento_a_futuro." data-name="Como base la descripción de los datos recolectados para generar patrones de comportamiento a futuro." transform="translate(704.924 883.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="2.914" y="15">Como base la descripción </tspan><tspan x="3.441" y="39">de los datos recolectados </tspan><tspan x="6.156" y="63">para generar patrones de </tspan><tspan x="3.797" y="87">comportamiento a futuro.</tspan></text>
+              <text id="Controlar_la_fabricación_su_desarrollo_y_el_beneficio_real_de_la_producción." data-name="Controlar la fabricación, su desarrollo y el beneficio real de la producción." transform="translate(704.924 1099.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="10.277" y="15">Controlar la fabricación, </tspan><tspan x="0.508" y="39">su desarrollo y el beneficio </tspan><tspan x="18.852" y="63">real de la producción.</tspan></text>
+              <text id="Los_protocolos_de_calidad_establecido_por_el_ordenador_del_pedido." data-name="Los protocolos de calidad establecido por el ordenador del pedido." transform="translate(430.924 1100.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="23.141" y="15">Los protocolos de </tspan><tspan x="4.285" y="39">calidad establecido por </tspan><tspan x="1.336" y="63">el ordenador del pedido.</tspan></text>
+              <text id="Revisar_los_estados_del_cumplimiento_de_los_protocolos." data-name="Revisar los estados del cumplimiento de los protocolos." transform="translate(433.924 1454.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="3.098" y="15">Revisar los estados del </tspan><tspan x="12.977" y="39">cumplimiento de los </tspan><tspan x="44.738" y="63">protocolos.</tspan></text>
+              <text id="Las_gráficas_de_control." data-name="Las gráficas de control." transform="translate(433.924 1298.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="2.027" y="15">Las gráficas de control.</tspan></text>
+              <text id="El_producto_final_con_el_producto_que_se_planteó_al_inicio_del_proceso." data-name="El producto final con el producto que se planteó al inicio del proceso." transform="translate(188.924 1100.329)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="4.223" y="15">El producto final con el </tspan><tspan x="27.594" y="39">producto que se </tspan><tspan x="16.477" y="63">planteó al inicio del </tspan><tspan x="54.102" y="87">proceso.</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

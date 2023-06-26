@@ -11,16 +11,17 @@
 
     .row
     .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3(data-aos="fade-left")
-      p.titulo.pb-0.mb-0 <b>Figura 5.</b> <i>Muestreo según el tipo de selección</i>           
-    .row   
-      .col-sm-12.mb-3.col-lg-10.offset-lg-1
+      p.titulo.pb-0.mb-0 <b>Figura 4.</b> <i>Muestreo según el tipo de selección</i>           
+    
+    .row.justify-content-center.align-items-center   
+      .col-sm-10.mb-3
         figure
           img(src='@/assets/curso/temas/tema4/1.svg', alt='')
 
     p.mb-5(data-aos="fade-left") Los planes de muestreo están pensados para determinar el tamaño de la muestra y el criterio para determinarlo.  Es decir, cuántos individuos formarán la muestra y por qué, son conocidos tres tipos de planes de muestreo, ver figura 6.
     .row
     .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3(data-aos="fade-left")
-      p.titulo.pb-0.mb-0 <b>Figura 6.</b> <i>Planes de muestreo</i>           
+      p.titulo.pb-0.mb-0 <b>Figura 5.</b> <i>Planes de muestreo</i>           
     .row   
       .col-sm-12.mb-3.col-lg-8.offset-lg-2
         figure
@@ -101,10 +102,10 @@
             figure
               img(src='@/assets/curso/temas/tema4/12.svg')
     
-    p.mb-5(data-aos="fade-left") Dentro de las características del muestreo, se encuentran las características de los atributos, los cuales hacen referencia a la variable. Estas se presentan de dos tipos (exhaustivos y mutuamente excluyentes). A continuación, se presentan las características del muestreo, ver figura 5.  
+    p.mb-5(data-aos="fade-left") Dentro de las características del muestreo, se encuentran las características de los atributos, los cuales hacen referencia a la variable. Estas se presentan de dos tipos (exhaustivos y mutuamente excluyentes). A continuación, se presentan las características del muestreo, ver figura 6.  
     .row
       .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3(data-aos="fade-left")
-        p.titulo.pb-0.mb-0 <b>Figura 7.</b> <i>Características del muestreo</i> 
+        p.titulo.pb-0.mb-0 <b>Figura 6.</b> <i>Características del muestreo</i> 
 
     .row
       .col-sm-12.col-lg-5.mb-4.mb-lg-0.offset-lg-1.mt-3
@@ -151,10 +152,10 @@
                   .col-12.mt-4.mb-4.px-5
                     p.mb-lg-0.lg-mb-5 En los resultados de muestreo se pueden presentar limitaciones:  cuando los resultados no son representativos o se presenta ambigüedad en los resultados.
 
-    p.mt-3(data-aos="fade-left") Respecto del análisis, de acuerdo con <b>Mantilla, F. (2015),</b> los resultados del muestreo sirven para realizar los siguientes tipos de análisis y determinar el tipo de investigación, ver figura 6.
+    p.mt-3(data-aos="fade-left") Respecto del análisis, de acuerdo con <b>Mantilla, F. (2015),</b> los resultados del muestreo sirven para realizar los siguientes tipos de análisis y determinar el tipo de investigación, ver figura 7.
     .row
     .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3(data-aos="fade-left")
-      p.titulo.pb-0.mb-0 <b>Figura 8.</b> <i>Resultados del muestreo</i>           
+      p.titulo.pb-0.mb-0 <b>Figura 7.</b> <i>Resultados del muestreo</i>           
     .row   
       .col-sm-12.mb-3.col-lg-8.offset-lg-2.mt-3
         figure
@@ -171,20 +172,20 @@
           .col-md-12.mb-4.mb-md-0
             p.mt-3(data-aos="fade-left") En inglés QL (Quality Limit) o LTPD (Lot Tolerance Percent Defective).  Es el valor de p (c   en el caso de defectos) que tiene una probabilidad de aceptación de 0.10. La probabilidad de aceptación de un lote con estas características, 10.0=β, se denomina riesgo del consumidor.
 
-    .col-sm-12.mb-3.col-lg-10.offset-lg-1.mt-3
-      .tarjeta.color-acento-contenido.p-3
-        .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/temas/tema4/14.svg")
-          .col
-            .row.justify-content-between.align-items-center
-              .col.mb-3.mb-sm-0
-                h3 Control de calidad: muestreo de aceptación de productos defectuosos
-                p.mt-3(data-aos="fade-left").text-white.mb-1 Si se desea explorar sobre la aplicación de la aceptación de lotes al control de calidad, se sugiere ver el video.
-              .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=GjhkHu0afn0" target="_blank")
-                  span video
-                  i.fas.fa-file-video
+    //- .col-sm-12.mb-3.col-lg-10.offset-lg-1.mt-3
+    //-   .tarjeta.color-acento-contenido.p-3
+    //-     .row.justify-content-around.align-items-center
+    //-       .col-3.col-sm-2.col-lg-1
+    //-         img(src="@/assets/curso/temas/tema4/14.svg")
+    //-       .col
+    //-         .row.justify-content-between.align-items-center
+    //-           .col.mb-3.mb-sm-0
+    //-             h3 Control de calidad: muestreo de aceptación de productos defectuosos
+    //-             p.mt-3(data-aos="fade-left").text-white.mb-1 Si se desea explorar sobre la aplicación de la aceptación de lotes al control de calidad, se sugiere ver el video.
+    //-           .col-sm-auto
+    //-             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=GjhkHu0afn0" target="_blank")
+    //-               span video
+    //-               i.fas.fa-file-video
 
     p.mt-3(data-aos="fade-left") Si se habla del muestreo como método de control de calidad en la producción se podría analizar de la siguiente manera:
 
@@ -200,10 +201,11 @@
 
     .row
     .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3(data-aos="fade-left")
-      p.titulo.pb-0.mb-0 <b>Figura 9.</b> <i>Muestreo de aceptación de productos defectuosos</i>
+      p.titulo.pb-0.mb-0 <b>Figura 8.</b> <i>Muestreo de aceptación de productos defectuosos</i>
 
-      //Falta figura en el archivo XD
-
+    .row.justify-content-around.align-items-center.mt-5
+      .col-sm-8.mt-5-mb-5
+        img(src="@/assets/curso/temas/tema4/15.svg")
 
 </template>
 
