@@ -27,81 +27,150 @@
     p.mt-5(data-aos="fade-up") Dentro de la gestión de datos, existen las #[strong gráficas de control], las cuales permiten revisar el estado del cumplimiento de los protocolos de calidad y ver las variaciones que se presentan en diferentes variables para controlar si están dentro de los parámetros de variación aceptados para no afectar la calidad del proceso final.
     p.mb-3(data-aos="fade-up") Hay distintos tipos de gráficas de acuerdo con la necesidad requerida. A continuación, se explica brevemente cada una de ellas.
               
-    .row
-      .col-12.col-lg-11
-        LineaTiempoE.color-primario
+    
+    .row.justify.content-center.align-items-center
+      .col-10
+        LineaTiempoE.color-primario.mb-5.mt-5
           .row(titulo="1")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
-                figure
-                  img.img200(src='@/assets/curso/temas/tema2/2.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Gráficas de barras
-                p Pueden ser #[strong verticales u horizontales], se pueden ordenar en forma #[strong cronológica/ alfabéticamente] para facilitar la lectura y/o comparación de la información.  Se utilizan para comparar magnitudes o ver la evolución de una variable a medir. 
-                p Las gráficas de barras también se pueden clasificar por la #[strong posición de las barras, sencillas, agrupadas y apiladas].
+            .col-lg-3.mb-4
+              figure
+                img(src='@/assets/curso/temas/tema2/2.svg', alt='')
+            .col-lg-8.mb-4.mb-lg-0
+              h4.text.small Gráficas de barras
+              p.text.small Pueden ser #[strong verticales u horizontales], se pueden ordenar en forma #[strong cronológica/ alfabéticamente] para facilitar la lectura y/o comparación de la información.  Se utilizan para comparar magnitudes o ver la evolución de una variable a medir. 
+              p.text.small Las gráficas de barras también se pueden clasificar por la #[strong posición de las barras, sencillas, agrupadas y apiladas].
 
-          .row(titulo="2")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
+          .row.justify.content-center.align-items-center(titulo="2")
+              .col-lg-3.mb-4
                 figure
                   img.img200(src='@/assets/curso/temas/tema2/3.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Gráficos de línea
-                p También existen los gráficos de líneas que usualmente se utilizan para #[strong presentaciones relacionadas] con el tiempo y son de tipo horizontal.
+              .col-lg-8.mb-4.mb-lg-0
+                h4.text.small Gráficos de línea
+                p.text.small También existen los gráficos de líneas que usualmente se utilizan para #[strong presentaciones relacionadas] con el tiempo y son de tipo horizontal.
                 
-          .row(titulo="3")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
+          .row.justify.content-center.align-items-center(titulo="3")
+              .col-lg-3.mb-4
                 figure
                   img.img200(src='@/assets/curso/temas/tema2/4.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Histograma
-                p Es una presentación del gráfico de barras, en #[strong forma continua] dentro de un #[strong plano cartesiano]. Son muy utilizados en relación a la variable tiempo. 
+              .col-lg-8.mb-4.mb-lg-0
+                h4.text.small Histograma
+                p.text.small Es una presentación del gráfico de barras, en #[strong forma continua] dentro de un #[strong plano cartesiano]. Son muy utilizados en relación a la variable tiempo. 
                 
-          .row(titulo="4")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
+          .row.justify.content-center.align-items-center(titulo="4")
+              .col-lg-3.mb-4
                 figure
                   img.img200(src='@/assets/curso/temas/tema2/5.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Pareto
-                p Dentro de las barras, es muy usado el gráfico de Pareto, que muestra la información organizada por el #[strong orden de frecuencia] y se relaciona con una línea basada en la frecuencia de la barra conectada a la siguiente.
+              .col-lg-8.mb-4.mb-lg-0
+                h4.text.small Pareto
+                p.text.small Dentro de las barras, es muy usado el gráfico de Pareto, que muestra la información organizada por el #[strong orden de frecuencia] y se relaciona con una línea basada en la frecuencia de la barra conectada a la siguiente.
                 
-          .row(titulo="5")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
+          .row.justify.content-center.align-items-center(titulo="5")
+              .col-lg-3.mb-4
                 figure
                   img.img200(src='@/assets/curso/temas/tema2/6.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Gráficas por sectores
-                p En los tipos de gráficas se encuentran las gráficas por sectores, basadas en una #[strong circunferencia] que muestra por partes la #[strong frecuencia correspondiente a la variable], ya sea continua o discreta; el círculo representa el 100 % de la muestra o de la población. 
+              .col-lg-8.mb-4.mb-lg-0
+                h4.text.small Gráficas por sectores
+                p.text.small En los tipos de gráficas se encuentran las gráficas por sectores, basadas en una #[strong circunferencia] que muestra por partes la #[strong frecuencia correspondiente a la variable], ya sea continua o discreta; el círculo representa el 100 % de la muestra o de la población. 
                 
-          .row(titulo="6")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
+          .row.justify.content-center.align-items-center(titulo="6")
+              .col-lg-3.mb-4
                 figure
                   img.img200(src='@/assets/curso/temas/tema2/7.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Pictograma
-                p Pictograma, representada mediante figuras la frecuencia de la variable, está basado en las barras, las cuales se reemplazan por una #[strong figura representativa], especialmente asociada a la población analizada; por ejemplo, en población humana se utilizan símbolos de una persona, en café, sacos de café y otros casos, como vehículos para ventas de carros o mantenimientos, transistores o computadores en temas relacionados con tecnología. Pueden ser vistos en forma #[strong horizontal o vertical], al igual que las gráficas de barras que los originan.
+              .col-lg-8.mb-4.mb-lg-0
+                h4.text.small Pictograma
+                p.text.small Pictograma, representada mediante figuras la frecuencia de la variable, está basado en las barras, las cuales se reemplazan por una #[strong figura representativa], especialmente asociada a la población analizada; por ejemplo, en población humana se utilizan símbolos de una persona, en café, sacos de café y otros casos, como vehículos para ventas de carros o mantenimientos, transistores o computadores en temas relacionados con tecnología. Pueden ser vistos en forma #[strong horizontal o vertical], al igual que las gráficas de barras que los originan.
                 
-          .row(titulo="7")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
+          .row.justify.content-center.align-items-center(titulo="7")
+              .col-lg-3.mb-4
                 figure
                   img.img200(src='@/assets/curso/temas/tema2/8.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Gráficos de dispersión
-                p En los gráficos de dispersión se muestra la relación entre dos variables. Pueden mostrar #[strong correlación nula, positiva, negativa,] no lineal o en ocasiones, para visualizar mejor la dispersión, se acompaña de una #[strong línea o recta de regresión definida] gracias a un modelo matemático, denominado ajuste lineal.
+              .col-lg-8.mb-4.mb-lg-0
+                h4.text.small Gráficos de dispersión
+                p.text.small En los gráficos de dispersión se muestra la relación entre dos variables. Pueden mostrar #[strong correlación nula, positiva, negativa,] no lineal o en ocasiones, para visualizar mejor la dispersión, se acompaña de una #[strong línea o recta de regresión definida] gracias a un modelo matemático, denominado ajuste lineal.
                 
-          .row(titulo="8")
-            .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
-              .col-lg-3.mb-3.mb-lg-0
+          .row.justify.content-center.align-items-center(titulo="8")
+              .col-lg-3.mb-4
                 figure
                   img.img200(src='@/assets/curso/temas/tema2/9.svg', alt='alt')
-              .col-lg-8.mb-4.mb-lg-0.offset-lg-1
-                h4 Cartogramas
-                p Son mapas estadísticos que representan información de una variable referenciada a #[strong zonas o regiones,] como departamentos, países o continentes entre algunos y la información se muestra con colores que identifican la medida o frecuencia de la variable.
+              .col-lg-8.mb-4.mb-lg-0
+                h4.text.small Cartogramas
+                p.text.small Son mapas estadísticos que representan información de una variable referenciada a #[strong zonas o regiones,] como departamentos, países o continentes entre algunos y la información se muestra con colores que identifican la medida o frecuencia de la variable.
+      
+    //- .row.justify-content-center-align-items-center
+    //-   .col-10
+    //-     LineaTiempoE.color-primario
+    //-       .row(titulo="1")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0.mt-3
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/2.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Gráficas de barras
+    //-             p Pueden ser #[strong verticales u horizontales], se pueden ordenar en forma #[strong cronológica/ alfabéticamente] para facilitar la lectura y/o comparación de la información.  Se utilizan para comparar magnitudes o ver la evolución de una variable a medir. 
+    //-             p Las gráficas de barras también se pueden clasificar por la #[strong posición de las barras, sencillas, agrupadas y apiladas].
+
+    //-       .row(titulo="2")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/3.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Gráficos de línea
+    //-             p También existen los gráficos de líneas que usualmente se utilizan para #[strong presentaciones relacionadas] con el tiempo y son de tipo horizontal.
+                
+    //-       .row(titulo="3")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/4.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Histograma
+    //-             p Es una presentación del gráfico de barras, en #[strong forma continua] dentro de un #[strong plano cartesiano]. Son muy utilizados en relación a la variable tiempo. 
+                
+    //-       .row(titulo="4")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/5.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Pareto
+    //-             p Dentro de las barras, es muy usado el gráfico de Pareto, que muestra la información organizada por el #[strong orden de frecuencia] y se relaciona con una línea basada en la frecuencia de la barra conectada a la siguiente.
+                
+    //-       .row(titulo="5")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/6.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Gráficas por sectores
+    //-             p En los tipos de gráficas se encuentran las gráficas por sectores, basadas en una #[strong circunferencia] que muestra por partes la #[strong frecuencia correspondiente a la variable], ya sea continua o discreta; el círculo representa el 100 % de la muestra o de la población. 
+                
+    //-       .row(titulo="6")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/7.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Pictograma
+    //-             p Pictograma, representada mediante figuras la frecuencia de la variable, está basado en las barras, las cuales se reemplazan por una #[strong figura representativa], especialmente asociada a la población analizada; por ejemplo, en población humana se utilizan símbolos de una persona, en café, sacos de café y otros casos, como vehículos para ventas de carros o mantenimientos, transistores o computadores en temas relacionados con tecnología. Pueden ser vistos en forma #[strong horizontal o vertical], al igual que las gráficas de barras que los originan.
+                
+    //-       .row(titulo="7")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/8.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Gráficos de dispersión
+    //-             p En los gráficos de dispersión se muestra la relación entre dos variables. Pueden mostrar #[strong correlación nula, positiva, negativa,] no lineal o en ocasiones, para visualizar mejor la dispersión, se acompaña de una #[strong línea o recta de regresión definida] gracias a un modelo matemático, denominado ajuste lineal.
+                
+    //-       .row(titulo="8")
+    //-         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-4
+    //-           .col-lg-3.mb-3.mb-lg-0
+    //-             figure
+    //-               img.img200(src='@/assets/curso/temas/tema2/9.svg', alt='alt')
+    //-           .col-lg-8.mb-4.mb-lg-0.offset-lg-1
+    //-             h4 Cartogramas
+    //-             p Son mapas estadísticos que representan información de una variable referenciada a #[strong zonas o regiones,] como departamentos, países o continentes entre algunos y la información se muestra con colores que identifican la medida o frecuencia de la variable.
                 
     p.mt-3(data-aos="fade-up") Diferentes actores y autores del tema estadístico hablan de los métodos de aplicación como los métodos estadísticos, los cuales son procedimientos para la recolección de datos numéricos o de valoración mediante diferentes procesos o técnicas como recolección, conteo y/o recuento, presentación, análisis y descripción.
 
