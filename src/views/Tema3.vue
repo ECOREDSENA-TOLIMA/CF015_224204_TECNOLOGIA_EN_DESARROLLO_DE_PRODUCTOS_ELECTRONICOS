@@ -52,7 +52,7 @@
     
     .row
       .col-sm-12.offset-lg-3.titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 2 
+        h5 Figura 2. 
         span #[em  Concepto gráfico de población, muestra e individuo]                  
     .row.justify-content-center.align-items-center
       .col-sm-12.col-lg-6
@@ -63,7 +63,7 @@
     
     .row
       .col-sm-12.offset-lg-3.titulo-sexto.color-acento-contenido.mb-5
-        h5 Figura 3 
+        h5 Figura 3. 
         span #[em  Elementos de la estadística descriptiva]   
     
     .row.justify-content-center.align-items-center
@@ -97,7 +97,7 @@
     AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row(titulo="Medidas de centralización")
         .col-md-3.mb-4.mb-md-0.offset-lg-1
-          p.mb-3(data-aos="fade-left") #[strong Figura 3]
+          p.mb-3(data-aos="fade-left") #[strong Figura 4.]
           p.mb-3(data-aos="fade-left") #[em Formula a la medida]
           figure
             img(src='@/assets/curso/temas/tema3/5.svg', alt='Texto que describa la imagen')

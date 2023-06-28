@@ -12,7 +12,7 @@
 
     .row
       .col-sm-12.offset-lg-3.titulo-sexto.color-acento-contenido.mb-3
-        h5 Figura 1 
+        h5 Figura 1. 
         span #[em  Implementación de calidad]
     .row   
       .col-sm-12.col-lg-10.offset-lg-1
