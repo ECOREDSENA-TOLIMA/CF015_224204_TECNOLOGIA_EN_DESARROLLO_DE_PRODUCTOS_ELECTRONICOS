@@ -29,39 +29,6 @@
     
     p.mb-5(data-aos="fade-left") Así mismo, hay dos técnicas de muestreo, el muestreo simple y el muestreo no probabilístico.
 
-    //ImagenInfograficaB.color-primario
-      div(x="15%" y="10%" tooltip="Punto 1" numero="1")
-        figure
-          img(src='@/assets/curso/temas/tema4/4.svg', alt='alt')
-          
-      div(x="25%" y="10%" tooltip="Punto 2" numero="2")
-        figure
-          img(src='@/assets/curso/temas/tema4/6.svg', alt='Texto que describa la imagen')
-
-      div(x="35%" y="10%" tooltip="Punto 3" numero="3")
-        figure
-          img(src='@/assets/curso/temas/tema4/7.svg', alt='Texto que describa la imagen')
-          
-      div(x="45%" y="10%" tooltip="Punto 4" numero="4")
-        figure
-          img(src='@/assets/curso/temas/tema4/8.svg', alt='Texto que describa la imagen') 
-
-      div(x="55%" y="10%" tooltip="Punto 5" numero="5")
-        figure
-          img(src='@/assets/curso/temas/tema4/9.svg', alt='Texto que describa la imagen')
-          
-      div(x="65%" y="10%" tooltip="Punto 6" numero="6")
-        figure
-          img(src='@/assets/curso/temas/tema4/10.svg', alt='Texto que describa la imagen')
-
-      div(x="75%" y="10%" tooltip="Punto 7" numero="7")
-        figure
-          img(src='@/assets/curso/temas/tema4/11.svg', alt='Texto que describa la imagen')
-          
-      div(x="85%" y="10%" tooltip="Punto 8" numero="8")
-        figure
-          img(src='@/assets/curso/temas/tema4/12.svg', alt='Texto que describa la imagen')
-    
     .tarjeta.tarjeta--gris.p-4
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4

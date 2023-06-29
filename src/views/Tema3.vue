@@ -98,7 +98,7 @@
       .row(titulo="Medidas de centralización")
         .col-md-3.mb-4.mb-md-0.offset-lg-1
           p.mb-3(data-aos="fade-left") #[strong Figura 4.]
-          p.mb-3(data-aos="fade-left") #[em Formula a la medida]
+          p.mb-3(data-aos="fade-left") #[em Fórmula a la medida]
           figure
             img(src='@/assets/curso/temas/tema3/5.svg', alt='Texto que describa la imagen')
             

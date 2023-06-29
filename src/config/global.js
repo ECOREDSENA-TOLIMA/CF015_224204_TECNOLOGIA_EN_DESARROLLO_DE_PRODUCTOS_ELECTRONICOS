@@ -99,7 +99,7 @@ export default {
         'Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers and Keying Ye. (2012).  Probabilidad y estadística para ingeniería y ciencias.  Pearson.',
       tipo: 'Libro',
       link:
-        'https://www.academia.edu/29109277/Probabilidad_estadistica_ingenieria_ciencias_9ed_Walpole_FL_1_',
+        'https://www.academia.edu/27961373/Probabilidad_y_Estadistica_par_Ronald_E_Walpole_and_Mayers',
     },
   ],
   glosario: [
