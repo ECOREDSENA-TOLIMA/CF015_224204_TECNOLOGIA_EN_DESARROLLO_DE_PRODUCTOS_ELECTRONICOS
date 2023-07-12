@@ -29,46 +29,36 @@
     
     p.mb-5(data-aos="fade-left") Así mismo, hay dos técnicas de muestreo, el muestreo simple y el muestreo no probabilístico.
 
-    .tarjeta.tarjeta--gris.p-4
-      SlyderA(tipo="b")
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
+    .row.justify-content-center.align-items-center.tarjeta--azul-custom.mb-0.p-4.pt-5
+      .col-md-10.col-lg-8.col-12(data-aos="fade-down")
+        ImagenInfografica.color-acento-contenido
+          template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema4/4.svg')
-    
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
-            figure
-              img(src='@/assets/curso/temas/tema4/6.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
-            figure
-              img(src='@/assets/curso/temas/tema4/7.svg')
-    
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
-            figure
-              img(src='@/assets/curso/temas/tema4/8.svg')
-    
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
-            figure
-              img(src='@/assets/curso/temas/tema4/9.svg')
-    
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
-            figure
-              img(src='@/assets/curso/temas/tema4/10.svg')
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
-            figure
-              img(src='@/assets/curso/temas/tema4/11.svg')
-    
-        .row.justify-content-center.align-items-center.my-lg-4
-          .col-12.col-lg-8
-            figure
-              img(src='@/assets/curso/temas/tema4/12.svg')
-    
+              img(src='@/assets/curso/temas/tema4/4.svg', alt='')
+
+          .tarjeta.color-acento-contenido.p-3(x="11%" y="40%" numero="")
+            p Se presenta en poblaciones de gran tamaño, para hallar la muestra se utiliza a través de una constante, denominada el coeficiente de elevación.
+            p.text-center J=N/n
+            p Con N tamaño de la población y n tamaño de la muestra, el coeficiente de elevación determina el intervalo y se seleccionan datos de cada intervalo.
+
+          .tarjeta.color-acento-contenido.p-3(x="37%" y="40%" numero="")
+            p La población de estudio se divide en grupos o clases, a cada clase o estrato se le asigna el cupo de datos que va a hacer parte de la muestra.  La idea es aplicar la técnica del muestreo sistemático a cada grupo, como si fuera un multi – sistemático.  Este muestreo también puede utilizar dos tipos de asignación proporcional u óptima.
+
+          .tarjeta.color-acento-contenido.p-3(x="64%" y="40%" numero="")
+            p En este tipo de muestreo, se subdivide la población en varios niveles, repitiendo la división por fases sucesivas para cada nivel que va apareciendo. 
+
+          .tarjeta.color-acento-contenido.p-3(x="89%" y="40%" numero="")
+            p Esta técnica de muestreo se utiliza cuando se encuentra una población naturalmente dividida, lo cual facilita que no es necesario aplicar otras técnicas y se pueden seleccionar fácilmente cualquiera de los grupos o conglomerados que forman la población.
+
+          .tarjeta.color-acento-contenido.p-3(x="11%" y="95%" numero="")
+            p Técnica que divide la población en varios estratos definidos por algún tipo de variable. Se calcula el peso de cada grupo o estrato, luego se multiplica el peso del grupo por el tamaño de la muestra para establecer la cuota del estrato y finalmente se seleccionan los candidatos; es muy utilizada para mercadeo y sondeos. 
+
+          .tarjeta.color-acento-contenido.p-3(x="50%" y="95%" numero="")
+            p En este tipo de técnica se seleccionan individuos que participarán en la muestra, y a través de estos se obtendrán otros para incorporar a la muestra; es muy usada para grupos clandestinos, poblaciones minoritarias o dispersas.
+
+          .tarjeta.color-acento-contenido.p-3(x="89%" y="95%" numero="")
+            p Para este tipo de técnica, los individuos de la muestra se seleccionan de manera racional.
+
     p.mb-5(data-aos="fade-left") Dentro de las características del muestreo, se encuentran las características de los atributos, los cuales hacen referencia a la variable. Estas se presentan de dos tipos (exhaustivos y mutuamente excluyentes). A continuación, se presentan las características del muestreo, ver figura 7.  
     .row
       .titulo-sexto.color-acento-contenido.mb-0.offset-lg-3(data-aos="fade-left")
@@ -145,7 +135,7 @@
         li
           |•	Cuando se realiza el empaquetado de los lotes después de la fabricación se definen las variables.
         li
-          |•	El cliente al recibir analiza el plan de muestreo de aceptación con el que se define si el lote cumple o no con las condiciones establecidas. Para este caso un γ que representa a Gamma en el alfabeto griego
+          |•	El cliente al recibir analiza el plan de muestreo de aceptación con el que se define si el lote cumple o no con las condiciones establecidas. Para este caso un γ que representa a Gamma en el alfabeto griego.
         li
           |•	Si el análisis arroja un valor fuera de lo definido como aceptación se procede a rechazar el lote.
         li
