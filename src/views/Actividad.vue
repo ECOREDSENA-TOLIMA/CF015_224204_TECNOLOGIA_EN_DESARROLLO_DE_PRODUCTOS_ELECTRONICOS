@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Control de calidad en el desarrollo de productos electrónicos
-        p.mb-4 #[b Objetivo] Aplicar los conocimientos adquiridos en el componente formativo CF15 sobre el control y medición de la calidad en componentes electrónicos.
+        p.mb-4 #[b Objetivo] Aplicar los conocimientos adquiridos en el componente formativo sobre el control y medición de la calidad en componentes electrónicos.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
